@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raghavendra H S
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning advanced Data engineering concepts
-- 💞️ I’m looking to collaborate on Data Engineeting technologie
+- 💞️ I’m looking to collaborate on Data Engineeting technologies
 - 📫 How to reach me on Linkedln - [Raghavendra H S](https://www.linkedin.com/in/raghavendra-h-s-01786332/)
 
 <!---
